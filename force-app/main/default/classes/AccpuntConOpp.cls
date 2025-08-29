@@ -10,6 +10,13 @@ public with sharing class AccpuntConOpp {
                 FirstName = 'Default',
                 LastName = 'Contact',
                 AccountId = accountId
+
+
+
+
+                
+
+                
             ));
             newOpportunities.add(new Opportunity(
                 Name = 'New Opportunity for ' + accountId,
